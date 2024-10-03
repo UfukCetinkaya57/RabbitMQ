@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace RabbitMQ.publisher
+namespace RabbitMQ.Publisher
 {
     public enum LogNames
     {

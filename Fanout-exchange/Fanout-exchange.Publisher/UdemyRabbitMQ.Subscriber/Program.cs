@@ -4,7 +4,7 @@ using System;
 using System.Text;
 using System.Threading;
 
-namespace UdemyRabbitMQ.subscriber
+namespace RabbitMQ.Subscriber
 {
     class Program
     {

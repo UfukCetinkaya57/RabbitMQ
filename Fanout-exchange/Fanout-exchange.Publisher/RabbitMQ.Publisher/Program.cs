@@ -3,7 +3,7 @@ using System;
 using System.Linq;
 using System.Text;
 
-namespace UdemyRabbitMQ.publisher
+namespace RabbitMQ.Publisher
 {
     class Program
     {
